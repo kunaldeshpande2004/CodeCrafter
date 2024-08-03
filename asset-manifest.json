@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kunaldeshpande2004/CodeCrafter/static/css/main.6b3031de.css",
+    "main.js": "/kunaldeshpande2004/CodeCrafter/static/js/main.8e60ee85.js",
+    "static/js/453.ee02a017.chunk.js": "/kunaldeshpande2004/CodeCrafter/static/js/453.ee02a017.chunk.js",
+    "index.html": "/kunaldeshpande2004/CodeCrafter/index.html",
+    "main.6b3031de.css.map": "/kunaldeshpande2004/CodeCrafter/static/css/main.6b3031de.css.map",
+    "main.8e60ee85.js.map": "/kunaldeshpande2004/CodeCrafter/static/js/main.8e60ee85.js.map",
+    "453.ee02a017.chunk.js.map": "/kunaldeshpande2004/CodeCrafter/static/js/453.ee02a017.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b3031de.css",
+    "static/js/main.8e60ee85.js"
+  ]
+}
